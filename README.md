@@ -5,7 +5,7 @@
 ## Overview
 
 API Data-driven testing (DDT) describes a way of testing where test input data and assertions keys and expected values are all driven from a table. Typically the table is a spreadsheet with every row represent a test step or an API call.
-
+yes 
 The advantage of DDT is the ease to add additional rows to the spreadsheet when new test scenarios are added to the product (API) under test. Also, in DDT, the test environment settings and control are not hard-coded. 
 
 This API DDT Framework is developed using SmartBear ReadyAPI product. To use the framework you will have to get a license or you can download the trial version of SmartBear ReadyAPI.
